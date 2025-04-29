@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="80" viewBox="0 0 200 80" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font-family: Arial, sans-serif; font-weight: bold; }
+    .emsi { fill: #003366; }
+    .tagline { font-size: 14px; fill: #666666; }
+  </style>
+  <text x="20" y="50" class="text emsi" font-size="40">EMSI</text>
+  <text x="20" y="70" class="text tagline">École Marocaine des Sciences de l'Ingénieur</text>
+</svg>

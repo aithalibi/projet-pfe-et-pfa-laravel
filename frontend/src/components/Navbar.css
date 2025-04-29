@@ -1,0 +1,23 @@
+.custom-search .ant-input-search-button {
+  background-color: #4CAF50 !important;
+  border-color: #4CAF50 !important;
+}
+
+.custom-search .ant-input-search-button:hover {
+  background-color: #45a049 !important;
+  border-color: #45a049 !important;
+}
+
+.custom-search .ant-input {
+  border-color: #4CAF50;
+}
+
+.custom-search .ant-input:hover,
+.custom-search .ant-input:focus {
+  border-color: #45a049 !important;
+  box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.2) !important;
+}
+
+.custom-search .anticon-search {
+  color: white !important;
+}
